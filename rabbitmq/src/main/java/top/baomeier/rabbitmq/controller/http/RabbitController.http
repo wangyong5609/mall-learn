@@ -1,0 +1,38 @@
+GET http://{{baseUrl}}/rabbit/simple
+Content-Type: application/json
+
+
+{}
+
+###
+
+GET http://{{baseUrl}}/rabbit/work
+Content-Type: application/json
+
+
+{}
+
+###
+
+GET http://{{baseUrl}}/rabbit/fanout
+Content-Type: application/json
+
+
+{}
+
+###
+GET http://{{baseUrl}}/rabbit/direct
+Content-Type: application/json
+
+
+{}
+
+###
+
+GET http://{{baseUrl}}/rabbit/topic
+Content-Type: application/json
+
+
+{}
+
+###
